@@ -1,0 +1,21 @@
+{
+    "name": "technical-exercise-fs",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "aws-sdk": "^2.782.0",
+        "cors": "^2.8.4",
+        "dotenv": "^6.1.0",
+        "express": "^4.16.4",
+        "express-joi-validation": "^4.0.4-beta.0",
+        "express-validation": "^3.0.6",
+        "history": "^4.7.2",
+        "joi": "^17.3.0",
+        "mongoose": "^5.3.6",
+        "morgan": "^1.10.0"
+    },
+    "scripts": {
+        "start": "node ./app.js",
+        "dev": "nodemon ./app.js"
+    }
+}
