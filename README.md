@@ -1,7 +1,5 @@
 ## Quick Start
 
-Install the executable. The executable's major version will match Express's:
-
 Install dependencies:
 
 ```bash
@@ -60,7 +58,7 @@ Make sure the right content type like `Content-Type: application/json; charset=u
             "createdAt": "2020-11-01T08:43:39.974Z",
             "updatedAt": "2020-11-01T08:43:39.974Z"
         },
-  }],
+  ],
   "filesCount": 2
 }
 ```
